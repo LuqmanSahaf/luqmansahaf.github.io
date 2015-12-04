@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highligher:       pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Coding is Art
+tagline:          'And the Waltz Goes On'
+description:      'I am a learner for life, Software Engineer and a <a href="http://www.numberphile.com/">Nubmerphile</a>. Apart from that, my interests are in sports, photography and coding for fun.'
+url:              https://luqmansahaf.github.io
+
+author:
+  name:           'Luqman Ghani'
+  url:            https://twitter.com/luqmansahaf
+
+gems: [jekyll-paginate]
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://luqmansahaf.github.io/luqmansahaf.github.io
+
+base_url: https://luqmansahaf.github.io/luqmansahaf.github.io
